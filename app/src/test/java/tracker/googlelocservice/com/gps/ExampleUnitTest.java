@@ -1,4 +1,4 @@
-package tracker.googlelocservice.com.googlelocservice;
+package tracker.googlelocservice.com.gps;
 
 import org.junit.Test;
 
